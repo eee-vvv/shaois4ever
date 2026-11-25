@@ -1,0 +1,5 @@
+.git
+.dir-locals.el
+.deployignore
+CNAME
+README.md
